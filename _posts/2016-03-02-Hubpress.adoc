@@ -1,0 +1,6 @@
+= Hubpress 설치후 실수하기 쉬운 것들
+
+:hp-tags: HubPress, Blog, Install
+
+1. 태그에는 한글이 올 수 없다. 한글이 오면 Publish가 안됨.
+2. 
